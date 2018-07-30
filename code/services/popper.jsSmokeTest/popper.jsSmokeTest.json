@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,popper.js",
+    "logging_enabled": "false",
+    "name": "popper.jsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "popper.jsSmokeTest.js"
+}
